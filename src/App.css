@@ -1,3 +1,14 @@
 body {
     font-family: 'Martel', sans-serif;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
