@@ -7,8 +7,6 @@ a {
     color: black;
 }
 
-a:hover {
-    text-decoration: none;
-    color: black;
-    font-size: 17px;
+*{
+    box-sizing: border-box;
 }
